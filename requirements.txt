@@ -1,0 +1,8 @@
+numpy==1.21.0
+pandas==1.2.4
+torch==1.9.0
+tqdm==4.60.0
+transformers==4.6.1
+tez==0.1.7
+psutil==5.8.0
+scikit_learn==0.24.2
