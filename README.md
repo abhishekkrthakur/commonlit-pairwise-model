@@ -9,3 +9,8 @@ To run:
 
 
 Score: 0.466 OOF, Public: 0.462 LB, Private: 0.464 LB
+
+
+Model arch:
+
+![Model](assets/model.png)
